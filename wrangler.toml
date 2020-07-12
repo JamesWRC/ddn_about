@@ -1,0 +1,6 @@
+name = "template"
+type = "javascript"
+account_id = "77a2ec0ca677d2dbbcd71851c58b072a"
+workers_dev = true
+routes = ["ddn.dev", "www.ddn.dev"]
+zone_id = "5293b42677b5b5b56d9bb6604f9bdbc5"
